@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Charnrit 👋
 
-<!--
-**CharnritK/CharnritK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Intelligence Developer focused on building scalable analytics solutions and turning complex data into actionable insights.
 
-Here are some ideas to get you started:
+## About me
+- 💼 BI Developer / Data Visualization Consultant
+- 📊 Specializing in Power BI, Databricks, SQL, and Python
+- 🏢 Working on analytics, reporting, and data transformation projects
+- 🎯 Interested in semantic models, data quality, automation, and BI engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- Power BI
+- Databricks
+- SQL
+- Python
+- DAX
+- Power Query (M)
+- Azure
+
+## What I’m working on
+- Building reliable BI solutions
+- Improving data validation and analytics workflows
+- Exploring AI-assisted development for BI and data projects
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/charnrit-khongthanarat/
